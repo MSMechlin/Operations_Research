@@ -1,1 +1,3 @@
-hello
+The "simplex" folder contains all of the files for the vscode dotnet project in case they are neccessary or contain neccessary information for anyone to run the porgram.
+The "executables" folder contains the files needed (in the same directory) to execute the program on my machine.
+The "source" folder contains the source code.
