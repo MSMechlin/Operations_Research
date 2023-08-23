@@ -1,0 +1,6 @@
+obj folder contains object files or prelinked files that will be "linked" by a 
+linker to make the executable.
+
+bin contains actual executable content.
+
+    These folders also contain xml instructions on how to obtain obj files and link them.

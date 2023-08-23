@@ -1,0 +1,17 @@
+C:\Users\Mason\Desktop\Refrigerator Recommender\Simplex\bin\Debug\net7.0\Simplex.exe
+C:\Users\Mason\Desktop\Refrigerator Recommender\Simplex\bin\Debug\net7.0\Simplex.deps.json
+C:\Users\Mason\Desktop\Refrigerator Recommender\Simplex\bin\Debug\net7.0\Simplex.runtimeconfig.json
+C:\Users\Mason\Desktop\Refrigerator Recommender\Simplex\bin\Debug\net7.0\Simplex.dll
+C:\Users\Mason\Desktop\Refrigerator Recommender\Simplex\bin\Debug\net7.0\Simplex.pdb
+C:\Users\Mason\Desktop\Refrigerator Recommender\Simplex\bin\Debug\net7.0\MathNet.Numerics.dll
+C:\Users\Mason\Desktop\Refrigerator Recommender\Simplex\obj\Debug\net7.0\Simplex.csproj.AssemblyReference.cache
+C:\Users\Mason\Desktop\Refrigerator Recommender\Simplex\obj\Debug\net7.0\Simplex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mason\Desktop\Refrigerator Recommender\Simplex\obj\Debug\net7.0\Simplex.AssemblyInfoInputs.cache
+C:\Users\Mason\Desktop\Refrigerator Recommender\Simplex\obj\Debug\net7.0\Simplex.AssemblyInfo.cs
+C:\Users\Mason\Desktop\Refrigerator Recommender\Simplex\obj\Debug\net7.0\Simplex.csproj.CoreCompileInputs.cache
+C:\Users\Mason\Desktop\Refrigerator Recommender\Simplex\obj\Debug\net7.0\Simplex.csproj.CopyComplete
+C:\Users\Mason\Desktop\Refrigerator Recommender\Simplex\obj\Debug\net7.0\Simplex.dll
+C:\Users\Mason\Desktop\Refrigerator Recommender\Simplex\obj\Debug\net7.0\refint\Simplex.dll
+C:\Users\Mason\Desktop\Refrigerator Recommender\Simplex\obj\Debug\net7.0\Simplex.pdb
+C:\Users\Mason\Desktop\Refrigerator Recommender\Simplex\obj\Debug\net7.0\Simplex.genruntimeconfig.cache
+C:\Users\Mason\Desktop\Refrigerator Recommender\Simplex\obj\Debug\net7.0\ref\Simplex.dll
